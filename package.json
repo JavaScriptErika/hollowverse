@@ -86,7 +86,7 @@
     "tslint": "^5.0.0",
     "tslint-config-standard": "^5.0.2",
     "typescript": "^2.1.6",
-    "webpack": "^2.2.1",
+    "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.1"
   }
 }
